@@ -1,0 +1,1 @@
+My board is Nucleo - F429ZI.
